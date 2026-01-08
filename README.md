@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Kavita Adha banner" width="100%" />
+</p>
 ## Hi there 👋 I am Kavita Adha
 
 **Product and Business Analyst** focused on **Category, Merchandising, Supply Chain, and Operations and Logistics analytics**.  
