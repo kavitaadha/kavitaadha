@@ -151,9 +151,9 @@ Trade-offs, recommendations, and next steps for non-technical audiences.
 ---
 
 
-## Portfolio (Selected Work)
+## Portfolio 
 
-> Replace the links below with your repository links once ready.
+
 
 <table>
   <tr>
