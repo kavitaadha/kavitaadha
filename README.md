@@ -169,8 +169,8 @@ Predictive patterns + segmentation + decision rules designed for operations lead
 </td>
 <td width="50%" valign="top">
 
-**Category and Merchandising Performance Dashboard**  
-Stock Keeping Unit performance, pricing and promotion views, distribution and velocity.
+**Rental Revenue & Customer Segmentation**  
+SQL + Tableau analysis of customer value tiers, genre performance, and rental “velocity” (demand signal).
 
 <a href="REPO LINK HERE">
   <img src="https://img.shields.io/badge/View%20Repository-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" alt="View Repository"/>
