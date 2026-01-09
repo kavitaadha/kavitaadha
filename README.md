@@ -162,7 +162,7 @@ Trade-offs, recommendations, and next steps for non-technical audiences.
 **HR Attrition and Risk Flags (Workforce Analytics)**  
 Predictive patterns + segmentation + decision rules designed for operations leaders.
 
-<a href="REPO LINK HERE">
+<a href="https://github.com/kavitaadha/HR-Attrition-Model">
   <img src="https://img.shields.io/badge/View%20Repository-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" alt="View Repository"/>
 </a>
 
