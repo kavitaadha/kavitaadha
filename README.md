@@ -181,8 +181,8 @@ SQL + Tableau analysis of customer value tiers, genre performance, and rental �
   <tr>
     <td width="50%" valign="top">
 
-**Operations Analytics: Process Improvement Case**  
-Baseline → bottlenecks → improvement actions → measurable outcomes.
+**Product & Brand Strategy Studio (TA)**  
+Coached 8 brand teams to build new products end-to-end: segmentation, positioning, go-to-market, and pitch storytelling.
 
 <a href="REPO LINK HERE">
   <img src="https://img.shields.io/badge/View%20Repository-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" alt="View Repository"/>
