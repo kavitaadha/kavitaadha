@@ -172,7 +172,7 @@ Predictive patterns + segmentation + decision rules designed for operations lead
 **Rental Revenue & Customer Segmentation**  
 SQL + Tableau analysis of customer value tiers, genre performance, and rental “velocity” (demand signal).
 
-<a href="REPO LINK HERE">
+<a href="https://github.com/kavitaadha/Global-Rental-Revenue-Customer-Segmentation">
   <img src="https://img.shields.io/badge/View%20Repository-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" alt="View Repository"/>
 </a>
 
