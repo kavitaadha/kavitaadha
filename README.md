@@ -184,7 +184,7 @@ SQL + Tableau analysis of customer value tiers, genre performance, and rental â€
 **Product & Brand Strategy Studio (TA)**  
 Coached 8 brand teams to build new products end-to-end: segmentation, positioning, go-to-market, and pitch storytelling.
 
-<a href="REPO LINK HERE">
+<a href="https://github.com/kavitaadha/Product-and-Brand-Strategy-Studio">
   <img src="https://img.shields.io/badge/View%20Repository-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" alt="View Repository"/>
 </a>
 
