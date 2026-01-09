@@ -73,7 +73,7 @@ I enjoy working on problems where strategy meets execution: segmentation, value 
 ---
 
 ##  How to reach me
-- LinkedIn: https://www.linkedin.com/in/ADD-YOUR-LINKEDIN
+- LinkedIn: https://www.linkedin.com/in/kavita-adha/
 - Email: kavitaadha4@gmail.com
 
 ###  Pronouns
