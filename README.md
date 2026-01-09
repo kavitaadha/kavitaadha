@@ -191,10 +191,10 @@ Baseline → bottlenecks → improvement actions → measurable outcomes.
 </td>
 <td width="50%" valign="top">
 
-**Text Classification / Customer Feedback Insights (Natural Language Processing)**  
-Feature engineering + classification + insight summary for stakeholders.
+**Text Classification: Craigslist Services Title Categorization (NLP)**  
+TF-IDF feature engineering + supervised machine learning to classify “Services Offered” post titles into five categories for faster discovery and reduced noise.
 
-<a href="REPO LINK HERE">
+<a href="https://github.com/kavitaadha/Text-Classification-Craigslist-Services-ml/blob/main/README.md">
   <img src="https://img.shields.io/badge/View%20Repository-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" alt="View Repository"/>
 </a>
 
