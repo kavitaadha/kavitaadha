@@ -212,15 +212,6 @@ TF-IDF feature engineering + supervised machine learning to classify “Services
 
 
 
-## GitHub Stats 
-
-<!-- Same tools, just a beige palette via parameters -->
-![](https://github-readme-stats.vercel.app/api?username=kavitaadha&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=F7F2EA&title_color=3D2B1F&text_color=3D2B1F&icon_color=8C6A5D)
-<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kavitaadha&hide_border=true&background=F7F2EA&ring=8C6A5D&fire=8C6A5D&currStreakNum=3D2B1F&sideNums=3D2B1F&currStreakLabel=3D2B1F&sideLabels=3D2B1F&dates=6E5A50)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavitaadha&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=F7F2EA&title_color=3D2B1F&text_color=3D2B1F)
-
 
 
 
@@ -236,8 +227,7 @@ TF-IDF feature engineering + supervised machine learning to classify “Services
 <img src="https://img.shields.io/badge/Category%20Analyst-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" />
 <br/>
 <img src="https://img.shields.io/badge/Merchandising%20Analyst-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" />
-<img src="https://img.shields.io/badge/Supply%20Chain%20Analyst-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" />
-<img src="https://img.shields.io/badge/Operations%20%26%20Logistics%20Analyst-D8C3A5?style=for-the-badge&logo=github&logoColor=5B4636" />
+
 
 </div>
 
